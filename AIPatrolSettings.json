@@ -36,7 +36,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookTheArtOfWar"
+            "ClassName": "BookTheArtOfWar"
             },
           {
             "Faction": "Passive",
@@ -61,33 +61,9 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookYouth"
+            "ClassName": "BookYouth"
         },
-        {
-            "Faction": "Shaman",
-            "Formation": "VEE",
-            "LoadoutFile": "NBCAttackLO",
-            "NumberOfAI": -5,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "JOG",
-              "UnderThreatSpeed": "RANDOM_NONSTATIC",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -0.10,
-            "AccuracyMax": -0.90,
-            "ThreatDistanceLimit": -1.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 10.0,
-            "MaxSpreadRadius": 150.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "ClassName": "ContaminatedArea_Static"
-        },
+
         {
             "Faction": "Passive",
             "Formation": "VEE",
@@ -111,7 +87,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookDracula"
+            "ClassName": "BookDracula"
         },
         {
             "Faction": "Passive",
@@ -136,7 +112,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookHunger"
+            "ClassName": "BookHunger"
         },
         {
             "Faction": "Passive",
@@ -161,7 +137,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookBlackJack"
+            "ClassName": "BookBlackJack"
         },
         {
             "Faction": "Passive",
@@ -186,7 +162,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookSkyrider"
+            "ClassName": "BookSkyrider"
         },
         {
             "Faction": "Passive",
@@ -211,7 +187,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookRussian"
+            "ClassName": "BookRussian"
         },
         {
             "Faction": "Passive",
@@ -236,7 +212,32 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "bldr_prop_BookDesertGold"
+            "ClassName": "BookDesertGold"
+        },
+                {
+            "Faction": "Shaman",
+            "Formation": "VEE",
+            "LoadoutFile": "NBCAttackLO",
+            "NumberOfAI": -5,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "JOG",
+              "UnderThreatSpeed": "RANDOM_NONSTATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "AccuracyMin": -0.10,
+            "AccuracyMax": -0.90,
+            "ThreatDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 10.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "ContaminatedArea_Static"
         }
       
     ],
