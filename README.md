@@ -1,26 +1,7 @@
 # NH-Expansion-AI-
 
-To spawn in each item type to try out/test customized loadout types. 
+Spawn them 600m+ away from you or AI doesn't generate right. 
 
-Spawn them 600m+ away from you or AI doesn't generate right.
+Portland, Airfield, Parris Island, New Haven, the island sound of NH, and the mine in the bottom left will have a lot of AI. There are patrols elsewhere. Anytime you spawn 
 
-BookTheArtOfWar = UNPeaceLO
-
-BookYouth = StudentsLO
-
-BookDracula = PrisonerLO
-
-BookHunger = NBCAttackLO
-
-BookBlackJack = BlackwatchLO
-
-BookSkyrider = BushmanLO
-
-BookRussian = TracksuitsLO
-
-BookDesertGold = YellowKingLO
-/
-
-
-
-FYI ContaminatedArea_Static autospawns up to 5 NBCAttackLO that will not aggro zombies.
+ContaminatedArea_Static autospawns up to 5 NBCAttackLOs. 
