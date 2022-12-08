@@ -17,7 +17,7 @@
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "UNPeaceLO",
-            "NumberOfAI": 2,
+            "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -36,13 +36,13 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookTheArtOfWar"
+            "ClassName": "HatchbackTrunk"
             },
           {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "StudentsLO",
-            "NumberOfAI": 5,
+            "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -61,14 +61,14 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookYouth"
+            "ClassName": " "
         },
 
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "PrisonerLO",
-            "NumberOfAI": 3,
+            "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -87,13 +87,13 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookDracula"
+            "ClassName": " "
         },
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "NBCAttackLO",
-            "NumberOfAI": 2,
+            "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -112,13 +112,13 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookHunger"
+            "ClassName": " "
         },
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "BlackwatchLO",
-            "NumberOfAI": -1,
+            "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -137,7 +137,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookBlackJack"
+            "ClassName": "HatchbackTrunk_GreenRust"
         },
         {
             "Faction": "Passive",
@@ -146,7 +146,7 @@
             "NumberOfAI": 3,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
-              "UnderThreatSpeed": "RANDOM_NONSTATIC",
+              "UnderThreatSpeed": " ",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "AccuracyMin": -0.10,
@@ -162,7 +162,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookSkyrider"
+            "ClassName": " "
         },
         {
             "Faction": "Passive",
@@ -187,7 +187,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookRussian"
+            "ClassName": " "
         },
         {
             "Faction": "Passive",
@@ -212,7 +212,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "BookDesertGold"
+            "ClassName": " "
         },
                 {
             "Faction": "Shaman",
@@ -246,7 +246,7 @@
             "Faction": "Shaman",
             "Formation": "FILE",
             "LoadoutFile": "NBCAttackLO", 
-            "NumberOfAI": -6,
+            "NumberOfAI": 6,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
