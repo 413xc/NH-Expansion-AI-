@@ -4,21 +4,21 @@ To spawn in each item type to try out/test customized loadout types.
 
 Spawn them 600m+ away from you or AI doesn't generate right.
 
-bldr_prop_BookTheArtOfWar = UNPeaceLO
+BookTheArtOfWar = UNPeaceLO
 
-bldr_prop_BookYouth = StudentsLO
+BookYouth = StudentsLO
 
-bldr_prop_BookDracula = PrisonerLO
+BookDracula = PrisonerLO
 
-bldr_prop_BookHunger = NBCAttackLO
+BookHunger = NBCAttackLO
 
-bldr_prop_BookBlackJack = BlackwatchLO
+BookBlackJack = BlackwatchLO
 
-bldr_prop_BookSkyrider = BushmanLO
+BookSkyrider = BushmanLO
 
-bldr_prop_BookRussian = TracksuitsLO
+BookRussian = TracksuitsLO
 
-bldr_prop_BookDesertGold = YellowKingLO
+BookDesertGold = YellowKingLO
 /
 
 
