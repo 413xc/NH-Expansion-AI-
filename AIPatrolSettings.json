@@ -215,10 +215,10 @@
             "ClassName": ""
         },
                 {
-            "Faction": "Shaman",
+            "Faction": "Shamans",
             "Formation": "VEE",
             "LoadoutFile": "NBCAttackLO",
-            "NumberOfAI": -5,
+            "NumberOfAI": -8,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -243,10 +243,10 @@
     ],
     "Patrols": [
         {
-            "Faction": "Shaman",
+            "Faction": "Shamans",
             "Formation": "FILE",
             "LoadoutFile": "NBCAttackLO", 
-            "NumberOfAI": 6,
+            "NumberOfAI": -8,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -2251,10 +2251,10 @@
             
         },
         {
-            "Faction": "Shaman",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "LoadoutFile": "NBCAttackLO",
-            "NumberOfAI": -6,
+            "NumberOfAI": -8,
             "Behaviour": "ALTERNATE",
             "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
@@ -11157,10 +11157,10 @@
             ]
         },
         {
-            "Faction": "Shaman",
+            "Faction": "Shamans",
             "Formation": "VEE",
             "LoadoutFile": "TracksuitsLO",
-            "NumberOfAI": 4,
+            "NumberOfAI": -6,
             "Behaviour": "ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
