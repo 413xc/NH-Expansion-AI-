@@ -19,7 +19,7 @@
             "LoadoutFile": "UNPeaceLO",
             "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "JOG",
+            "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -36,15 +36,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "HatchbackTrunk"
+            "ClassName": ""
             },
           {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "StudentsLO",
-            "NumberOfAI": 1,
+            "NumberOfAI": 5,
             "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "JOG",
+            "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -61,16 +61,16 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
 
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "PrisonerLO",
-            "NumberOfAI": 1,
+            "NumberOfAI": 5,
             "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "JOG",
+            "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -87,15 +87,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "NBCAttackLO",
-            "NumberOfAI": 1,
+            "NumberOfAI": 5,
             "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "JOG",
+            "Speed": "WALK",
               "UnderThreatSpeed": "RANDOM_NONSTATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
@@ -112,7 +112,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
         {
             "Faction": "Passive",
@@ -137,13 +137,13 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": "HatchbackTrunk_GreenRust"
+            "ClassName": ""
         },
         {
             "Faction": "Passive",
             "Formation": "VEE",
             "LoadoutFile": "BushmanLO",
-            "NumberOfAI": 3,
+            "NumberOfAI": 5,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "JOG",
               "UnderThreatSpeed": " ",
@@ -162,7 +162,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
         {
             "Faction": "Passive",
@@ -187,7 +187,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
         {
             "Faction": "Passive",
@@ -212,7 +212,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
-            "ClassName": " "
+            "ClassName": ""
         },
                 {
             "Faction": "Shaman",
